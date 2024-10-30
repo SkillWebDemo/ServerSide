@@ -1,0 +1,62 @@
+{
+    "January": {
+        "Electronics": 2035,
+        "Clothing": 1703,
+        "Groceries": 4476
+    },
+    "February": {
+        "Electronics": 4828,
+        "Clothing": 1554,
+        "Groceries": 2667
+    },
+    "March": {
+        "Electronics": 1105,
+        "Clothing": 1430,
+        "Groceries": 3385
+    },
+    "April": {
+        "Electronics": 1903,
+        "Clothing": 4565,
+        "Groceries": 1093
+    },
+    "May": {
+        "Electronics": 3194,
+        "Clothing": 3653,
+        "Groceries": 4394
+    },
+    "June": {
+        "Electronics": 2417,
+        "Clothing": 4619,
+        "Groceries": 2016
+    },
+    "July": {
+        "Electronics": 1555,
+        "Clothing": 2209,
+        "Groceries": 2421
+    },
+    "August": {
+        "Electronics": 4017,
+        "Clothing": 1267,
+        "Groceries": 2871
+    },
+    "September": {
+        "Electronics": 3862,
+        "Clothing": 4303,
+        "Groceries": 4123
+    },
+    "October": {
+        "Electronics": 2916,
+        "Clothing": 1290,
+        "Groceries": 1621
+    },
+    "November": {
+        "Electronics": 2529,
+        "Clothing": 1831,
+        "Groceries": 1664
+    },
+    "December": {
+        "Electronics": 4706,
+        "Clothing": 3125,
+        "Groceries": 4334
+    }
+}

@@ -7,4 +7,7 @@
 
 ### Contains data for exercise in workshop 13
 industrial.json
+https://raw.githubusercontent.com/SkillWebDemo/ServerSide/refs/heads/master/data/industrial.json
+
+Your task is to create an API that provides a GET - endpoint for industrial product, taking article number as variable.
 
