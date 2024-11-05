@@ -5,7 +5,7 @@
 * Contains MySQL-server
 * Open up your server for GET, POST, PUT and DELETE with REST.
 
-### Contains data for exercise in workshop 13
+### Contains data for exercise in workshop 16
 industrial.json
 https://raw.githubusercontent.com/SkillWebDemo/ServerSide/refs/heads/master/data/industrial.json
 
