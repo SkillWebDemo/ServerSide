@@ -9,8 +9,5 @@ CREATE TABLE users (
 
 
 
-
-
-
 INSERT INTO users (name, email)
 VALUES ("Lucifer Morningstar", "devil@he.ll");
