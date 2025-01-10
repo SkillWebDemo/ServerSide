@@ -11,3 +11,4 @@ https://raw.githubusercontent.com/SkillWebDemo/ServerSide/refs/heads/master/data
 
 Your task is to create an API that provides a GET - endpoint for industrial product, taking article number as variable.
 
+Added Jenkinsfile and now a scanner
